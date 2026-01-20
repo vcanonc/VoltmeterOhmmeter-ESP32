@@ -92,9 +92,9 @@ Click the image below to watch the full demonstration video on YouTube:
 
 Below are two photographs of the physical prototype:
 
-![Prototype – Front View](./images/photo1.jpg)
+![Prototype – Front View](./images/image1.jpg)
 
-![Prototype – Internal / Wiring View](./images/photo2.jpg)
+![Prototype – Internal / Wiring View](./images/image2.jpg)
 
 > Place the images inside an `images/` folder in the repository and update the filenames if needed.
 
@@ -158,3 +158,4 @@ git clone https://github.com/your-username/your-repository-name.git
 ## 📄 License
 
 This project is released under the **MIT License**.
+
