@@ -96,8 +96,6 @@ Below are two photographs of the physical prototype:
 
 ![Prototype – Internal / Wiring View](./images/image2.jpeg)
 
-> Place the images inside an `images/` folder in the repository and update the filenames if needed.
-
 ---
 
 ## 🛠️ Technologies Used
@@ -158,5 +156,6 @@ git clone https://github.com/your-username/your-repository-name.git
 ## 📄 License
 
 This project is released under the **MIT License**.
+
 
 
