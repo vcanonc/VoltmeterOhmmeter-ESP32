@@ -157,5 +157,8 @@ git clone https://github.com/your-username/your-repository-name.git
 
 This project is released under the **MIT License**.
 
+## 👤 Authors
 
-
+Developed by:
+- [Víctor Camilo Cañón Castellanos](https://github.com/vcanonc)
+- [Santiago Jesus Gomez Gil](https://github.com/sjgomezg)
